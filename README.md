@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Alexandr Korneev 👋
+
+### I am a beginner DS specialist.
+I am a beginner DS specialist. Completed training on the **Yandex.Practicum** platform. The basics of methods, technologies and tools for analyzing, visualizing and processing data, preparing data for machine learning models were studied, including: **Python, Pandas, Matplotlib, Seaborn, Pipeline, Scikit-learn, CatBoost, Keras, exploratory and statistical analysis**, etc. During the training process, projects were completed, some of which can be found in the [Portfolio](https://github.com/KorAl23/Portfolio) repository.
 
 <!--
 **KorAl23/KorAl23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
