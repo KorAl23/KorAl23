@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexandr Korneev 👋
 
 ### I'm a beginner DS specialist.
-Completed training on the **Yandex.Practicum** platform.  
+Completed training in the professional retraining program **“Data Science Specialist”** on the **Yandex.Practicum** platform.  
 The basics of methods, technologies and tools for analyzing, visualizing and processing data, preparing data for machine learning models were studied, including: **Python, Pandas, Matplotlib, Seaborn, Pipeline, Scikit-learn, CatBoost, Keras, exploratory and statistical analysis**, etc.  
 During the training process, projects were completed, some of which can be found in the [Portfolio](https://github.com/KorAl23/Portfolio) repository.
 
